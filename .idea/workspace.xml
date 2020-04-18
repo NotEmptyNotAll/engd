@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d5e3c8b-5bd7-4ef5-bd0b-62c67038d02a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aZXAPPDmnYaaXTDiX9NlIGUrk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mariadb&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SpringBootOpenshift" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FirstreleaseApplication">
+    <configuration name="FirstreleaseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vshvet.firstrelease.FirstreleaseApplication" />
+      <module name="firstrelease" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vshvet.firstrelease.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstrelease [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FirstreleaseApplication" />
+      <item itemvalue="Maven.firstrelease [spring-boot:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstreleaseApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5e3c8b-5bd7-4ef5-bd0b-62c67038d02a" name="Default Changelist" comment="" />
+      <created>1586943945752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586943945752</updated>
+      <workItem from="1586943970128" duration="4906000" />
+      <workItem from="1586973782386" duration="9046000" />
+      <workItem from="1586989120767" duration="80000" />
+      <workItem from="1587022520169" duration="612000" />
+      <workItem from="1587023189019" duration="23800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="116" y="106" key="#Project_Structure" timestamp="1586987598063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="116" y="106" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586987598063" />
+    <state x="693" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587143965910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1600.0.1600.1160@0.0.1920.1040" timestamp="1587143965910" />
+    <state x="691" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587128866747" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1586987962153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586987962153" />
+    <state x="679" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586987574829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586987574829" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1587170331071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587170331071" />
+    <state width="938" height="310" key="GridCell.Tab.0.bottom" timestamp="1587168292474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.0.1600.1160@0.0.1920.1040" timestamp="1587145520827" />
+    <state width="938" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587168292474" />
+    <state width="938" height="310" key="GridCell.Tab.0.center" timestamp="1587168292473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.0.1600.1160@0.0.1920.1040" timestamp="1587145520827" />
+    <state width="938" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587168292473" />
+    <state width="938" height="310" key="GridCell.Tab.0.left" timestamp="1587168292473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.0.1600.1160@0.0.1920.1040" timestamp="1587145520826" />
+    <state width="938" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587168292473" />
+    <state width="938" height="310" key="GridCell.Tab.0.right" timestamp="1587168292474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.0.1600.1160@0.0.1920.1040" timestamp="1587145520827" />
+    <state width="938" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587168292474" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1586988756236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586988756236" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1586988756236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586988756236" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1586988756236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586988756236" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1586988756236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586988756236" />
+    <state x="317" y="157" key="SettingsEditor" timestamp="1586987643408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="317" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586987643408" />
+    <state x="147" y="52" width="687" height="1009" key="dock-window-1" timestamp="1587023123452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="147" y="52" width="687" height="1009" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1587023123452" />
+    <state x="342" y="140" key="new project wizard" timestamp="1586973800672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586973800672" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1586950430855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586950430855" />
+    <state x="299" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1586987590144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="299" y="242" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586987590144" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vshvet/firstrelease/Service/ParametrsService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vshvet/firstrelease/Service/ParametrsService.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

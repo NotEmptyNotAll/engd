@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="d4en0l50l31oi@ec2-54-247-78-30.eu-west-1.compute.amazonaws.com" uuid="20343da1-1647-4380-a9ab-0a72ef29e78a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-247-78-30.eu-west-1.compute.amazonaws.com:5432/d4en0l50l31oi?sslfactory=org.postgresql.ssl.NonValidatingFactory</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="baddy_25562067_engdb@sql209.badhost.ru" uuid="4556e95e-881f-45b4-ad9e-a37c9a87f6fe">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://sql209.badhost.ru:3306/baddy_25562067_engdb</jdbc-url>
+    </data-source>
+  </component>
+</project>
